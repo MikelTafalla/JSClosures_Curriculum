@@ -5,7 +5,19 @@
 
 * Mention that it is confusing at the beginning but useful and important to understand. Since it'll be present onthe future when we see react and we need to learn react hooks and also that it is a common interview question.
 
-2. Show example one. Closures Scope Chain.
-3. Show example two. Closures seen on constructor functions
-4. Show example three.
+# Demonstrations 15 min Total
+1. Show example one. Intro to lexical scope and basics of closures (5. minutes):
+* Mention/remember that we saw scopes last week.
+2. Show example two. Closures Scope Chain. (5. minutes)
+3. Show example three. Closures seen on constructor functions. (5. minutes)
 
+
+# Hands On activities 15 min each
+1. 
+2. 
+3. 
+
+# Review Session
+1. review1_ClosuresInAction
+2.  
+3. 
