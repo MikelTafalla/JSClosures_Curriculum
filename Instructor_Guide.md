@@ -13,9 +13,9 @@
 
 
 # Hands On activities 15 min each
-1. 
-2. 
-3. 
+1. Practice1_currying. Students do unsolved.
+2. Practice2_secureMyBank. Students do unsolved.
+3. Practice3_getPrivate. Students do unsolved. 
 
 # Review Session
 1. review1_ClosuresInAction
