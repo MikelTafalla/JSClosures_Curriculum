@@ -18,6 +18,15 @@
 3. Practice3_getPrivate. Students do unsolved. 
 
 # Review Session
-1. review1_ClosuresInAction
-2.  
-3. 
+1. review1_interviewQuestions
+2. review2_closuresInAction
+3. review3_closuresHighOrderFunctions
+
+# Resources for students:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+https://dmitripavlutin.com/simple-explanation-of-javascript-closures/
+https://www.youtube.com/watch?v=yiEeiMN2Khs
+https://www.youtube.com/watch?v=1JsJx1x35c0
+
+
+
