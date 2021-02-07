@@ -4,7 +4,7 @@ with your partner answer the following questions
 
 1. 
 
-# How would you define closure? Try to explain in your own words and with an example
+# How would you define closure? Try to explain it in your own words and with an example
 
 1. 
 

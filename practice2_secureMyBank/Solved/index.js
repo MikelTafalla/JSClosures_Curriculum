@@ -22,6 +22,6 @@ const manageBankAccount = function(initialBalance) {
 
 const accountManager = manageBankAccount(0);
 
-console.log( accountManager.deposit(1000) ); // undefined. nothing to return in the code
+console.log( accountManager.deposit(1000) ); // undefined. Nothing to return in the code
 console.log( accountManager.withdraw(500) ); // undefined or message depending on amount
 console.log( accountManager.getBalance() ); // 500

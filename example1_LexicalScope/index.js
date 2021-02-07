@@ -2,9 +2,9 @@
 
 //The scope is the space that rules the accessibility of variables.
 
-//But now, for closure the important concept to understand is the lexical scope.
+//But now, for closure, the important concept to understand is the lexical scope.
 
-//In a nutshell, the lexical scoping means that inside the inner scope you can access variables of its outer scopes.
+//In a nutshell, lexical scoping means that inside the inner scope you can access variables of its outer scopes.
 
 //It’s called lexical (or static) because the engine determines (at lexing time) the nesting of scopes just by looking at the JavaScript source code, without executing it.
 
@@ -38,7 +38,7 @@ function getGreet() {
   };
 }
 
-//So getGreeter returns a function. If you want to be greeted, you neeed to call it twice
+//So getGreet returns a function. If you want to be greeted, you neeed to call it twice
 console.log( getGreet() )
 console.log( getGreet()() )
 

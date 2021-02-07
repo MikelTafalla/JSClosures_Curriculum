@@ -27,11 +27,11 @@ console.log("this.kind = " + this.kind)
 
 // // We can see that we have created a Hamburger object but it is empty
 // console.log(cheeseburger)
-// // Let's try --- why is it undefined? Scopes??
+// // Let's try --- why is it undefine? Scopes??
 // console.log(cheeseburger.kind)
 
 
-//So at this point is where closures come into action. So having a closure is to have some way to access that variable even when the variable has ceased to exist. For that, we can have an inner function that references the variable, so it keeps it alive.
+//So at this point closures come into action. So having a closure is to have some way to access that variable even when the variable has ceased to exist. For that, we can have an inner function that references the variable, so it keeps it alive.
 
 //comment out all the previous code. Uncomment the rest.
 

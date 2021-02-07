@@ -4,7 +4,7 @@ function outer() {
   const a = 10;
   let b = 100;
   
-  //inner has access to the outer function values and it will keep them until everything is process
+  //inner has access to the outer function values and it will keep them until everything is processed
   function inner() {
     let c = 20;
     console.log(`a=${a}, b=${b}, c=${c}`);
@@ -23,7 +23,7 @@ const fnFirst = outer();
 // console.log(fnFirst)
 // outer() invoked the second time but assigned to different variable
 const fnSecond = outer(); 
-// console.log(fnSecond)  So far everything, both variables are the same
+// console.log(fnSecond).  So far everything, both variables, are the same
 
 // we can inspect the console and verify Scopes Closure
 console.dir(fnFirst);

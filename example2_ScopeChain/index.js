@@ -18,7 +18,7 @@ function sum(a){
   }
 }
 
-//With console.dir we can see how values are being stored as closures and how scopes increase. That is going to happen until we reach console.dir(s3). When everything is said and thus everything ceases to exist, so the result of the last console.log and console.dir is the same, the result
+//With console.dir we can see how values are being stored as closures and how scopes increase. That is going to happen until we reach console.dir(s3). When everything is said and thus everything ceases to exist, so the result of the last console.log and console.dir is the same; both print just the result
 var s = sum(1);
 console.dir(s)
 var s1 = s(2);

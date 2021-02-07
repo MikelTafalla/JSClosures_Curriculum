@@ -9,4 +9,4 @@
 
 
 
-More details and in depth explanation at freecodecamp https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/amp/
+More details and in depth solved explanation at freecodecamp https://www.freecodecamp.org/news/learn-javascript-closures-in-n-minutes/amp/

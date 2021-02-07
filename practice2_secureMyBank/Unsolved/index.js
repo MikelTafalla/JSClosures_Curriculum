@@ -19,4 +19,4 @@ const manageBankAccount = function() {
 
 accountBalance = 10000000;
 
-//Below. Refactor your code with what we learn today to make your account safer.
+//Below. Refactor your code with what we learnt today to make your account safer.
